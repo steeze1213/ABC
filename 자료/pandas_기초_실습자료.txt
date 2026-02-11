@@ -1,0 +1,72 @@
+| 함수       | 기능               |
+|------------|--------------------|
+| head()     | 앞부분 출력        |
+| tail()     | 뒷부분 출력        |
+| shape      | 행, 열 개수 출력   |
+| info()     | 변수 속성 출력     |
+| describe() | 요약 통계량 출력   |
+
+| 변수명          | 내용                |
+|----------------|---------------------|
+| manufacturer	 | 제조회사             |
+| model          | 자동차 모델명          |
+| displ          | 배기량(displacement)  |
+| year           | 생산연도               |
+| cyl            | 실린더 개수(cylinders)  |
+| trans          | 변속기 종류(transmission) |
+| drv            | 구동 방식(drive wheel) |
+| cty            | 도시 연비(city) |
+| hwy            | 고속도로 연비 (highway) |
+| f1             | 연료 종류(fuel) |
+| category       | 자동차 종류(category) |
+
+메서드와 어트리뷰트
+https://youngwoos.github.io/Doit_Python/05.html#/%ED%95%A8%EC%88%98%EC%99%80-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B0%A8%EC%9D%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0
+
+혼자서 해보기
+https://youngwoos.github.io/Doit_Python/05.html#/%ED%98%BC%EC%9E%90%EC%84%9C-%ED%95%B4%EB%B3%B4%EA%B8%B0
+
+| 함수          | 기능              |
+|---------------|-------------------|
+| query()       | 행 추출           |
+| df[]          | 열(변수) 추출     |
+| sort_values() | 정렬              |
+| groupby()     | 집단별로 나누기   |
+| agg()         | 통계치 구하기     |
+| merge()       | 데이터 합치기(열) |
+| concat()      | 데이터 합치기(행) |
+
+| 논리 연산자 | 기능        |
+|:-----------:|-------------|
+| <           | 작다        |
+| <=          | 작거나 같다 |
+| >           | 크다        |
+| >=          | 크거나 같다 |
+| ==          | 같다        |
+| !=          | 같지 않다   |
+| \|          | 또는        |
+| &           | 그리고      |
+| in          | 매칭 확인   |
+
+| 산술 연산자 | 기능            |
+|:-----------:|-----------------|
+| +           | 더하기          |
+| -           | 빼기            |
+| *           | 곱하기          |
+| **          | 제곱            |
+| /           | 나누기          |
+| //          | 나눗셈의 몫     |
+| %           | 나눗셈의 나머지 |
+
+파생변수 추가하기
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.assign.html
+
+전체 요약통계량 구하기
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.agg.html
+
+종류별로 표식 색깔 변경하기
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+
+혼자서 해보기
+https://youngwoos.github.io/Doit_Python/08.html#/6/8
+
